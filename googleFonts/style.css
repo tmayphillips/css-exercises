@@ -1,0 +1,23 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+#header {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1 {
+    font-family: "Sofia", sans-serif;
+  }
+
+h3, h4 {
+    font-family: 'M PLUS 2', sans-serif;
+}
+
+
+p {
+    font-family: 'Estonia', cursive;
+}
